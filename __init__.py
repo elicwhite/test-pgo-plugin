@@ -1,1 +1,1 @@
-from my_print import Print
+from my_print import PrintText
